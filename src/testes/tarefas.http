@@ -1,0 +1,10 @@
+GET https://upgraded-couscous-r476q4wjvj4v3xp6v-3000.app.github.dev/api/tarefas
+
+###
+Post https://upgraded-couscous-r476q4wjvj4v3xp6v-3000.app.github.dev/api/tarefas
+Content-Type: application/json
+
+{
+    "id" : 10,
+    "titulo" : "Teste POST"
+}
